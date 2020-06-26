@@ -4,4 +4,4 @@ How to play?
 *cmd command: javaw -jar javaFinalMaster_fat.jar
 
 Game Video:
-{%youtube https://youtu.be/UiYzQmB26WI %}
+{%youtube UiYzQmB26WI %}
